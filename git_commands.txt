@@ -1,0 +1,60 @@
+1) git init
+
+Initializes a new Git repository in the current directory.
+2) git clone <repository_url>
+
+Clones an existing repository from a URL to your local machine.
+3) git add <filename>
+
+Adds a file to the staging area, preparing it for a commit.
+4) git add .
+
+Adds all changes in the working directory to the staging area.
+5) git commit -m "Commit message"
+
+Commits changes in the staging area with a descriptive message.
+6) git status
+
+Shows the status of changes as untracked, modified, or staged.
+7) git log
+
+Displays the commit history of the current branch.
+8) git branch
+
+Lists all branches in the repository. The current branch is highlighted.
+9) git branch <branch_name>
+
+Creates a new branch with the specified name.
+10) git checkout <branch_name>
+
+Switches to the specified branch.
+11) git merge <branch_name>
+
+Merges changes from the specified branch into the current branch.
+12) git pull
+
+Fetches changes from a remote repository and merges them into the current branch.
+13) git push
+
+Pushes committed changes to a remote repository.
+14) git remote -v
+
+Shows a list of remote repositories linked to your local repository.
+15) git remote add <name> <repository_url>
+
+Adds a new remote repository with the given name and URL.
+16) git fetch
+
+Fetches changes from a remote repository without merging.
+17) git diff
+
+Shows the differences between the working directory and the last commit.
+18) git reset <filename>
+
+Unstages a file, removing it from the staging area.
+19) git rm <filename>
+
+Removes a file from both the working directory and the staging area.
+20) git tag <tag_name>
+
+Creates a lightweight tag for the current commit, often used to mark release points.

@@ -1,0 +1,17 @@
+Installing Git on a local machine is a straightforward process. Below are general guidelines for installing Git on different operating systems:
+
+Windows:
+Git Bash:
+
+Download the Git for Windows installer from the official website: Git for Windows.
+Run the downloaded installer.
+Follow the installation wizard, selecting the default options unless you have specific preferences.
+Choose the appropriate line ending conversion (Windows-style or Unix-style) based on your needs.
+Select the default editor (usually Vim or Nano) for commit messages.
+Complete the installation.
+Git GUI:
+
+If you prefer a graphical user interface (GUI), you can also install Git GUI during the installation process. It provides a visual representation of Git repositories.
+Verify Installation:
+
+Open a command prompt or Git Bash and type git --version to verify that Git has been installed successfully.
